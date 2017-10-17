@@ -1,4 +1,4 @@
-This repository will hold the source code for the **Minimal ADB and Fastboot** (MAF) tool.
+This repository will hold the source code for the __Minimal ADB and Fastboot__ (MAF) tool.
 More information about Minimal ADB and Fastboot can be found at the link below
 on xda-developers:
 
